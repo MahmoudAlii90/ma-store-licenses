@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "issued_by": "MA Store Solutions",
+  "licenses": [
+    {
+      "key": "MA-1234-5678-9999",
+      "owner": "Client One",
+      "email": "client.one@example.com",
+      "features": ["full"],
+      "expires": "2026-01-01",
+      "active": true
+    },
+    {
+      "key": "MA-1111-2222-3333",
+      "owner": "Client Two",
+      "email": "client.two@example.com",
+      "features": ["viewer"],
+      "expires": "2025-12-31",
+      "active": false
+    }
+  ]
+}
