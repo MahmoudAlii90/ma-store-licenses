@@ -6,7 +6,9 @@
       "key": "MA-1234-5678-9999",
       "owner": "Client One",
       "email": "client.one@example.com",
-      "features": ["full"],
+      "features": [
+        "full"
+      ],
       "expires": "2026-01-01",
       "active": true
     },
@@ -14,9 +16,21 @@
       "key": "MA-1111-2222-3333",
       "owner": "Client Two",
       "email": "client.two@example.com",
-      "features": ["viewer"],
+      "features": [
+        "viewer"
+      ],
       "expires": "2025-12-31",
       "active": false
+    },
+    {
+      "key": "MA-AC3B-D603-DEC2",
+      "owner": "MahmoudAli",
+      "email": "mahmoud.mali246@gmail.com",
+      "features": [
+        "full"
+      ],
+      "expires": "2026-11-09",
+      "active": true
     }
   ]
 }
