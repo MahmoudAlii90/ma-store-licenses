@@ -31,6 +31,16 @@
       ],
       "expires": "2026-11-09",
       "active": true
+    },
+    {
+      "key": "MA-C039-6E19-CB9E",
+      "owner": "MahmoudHA",
+      "email": "test@test.net",
+      "features": [
+        "full"
+      ],
+      "expires": "2026-11-10",
+      "active": true
     }
   ]
 }
